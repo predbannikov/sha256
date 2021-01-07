@@ -1,3 +1,5 @@
+// For example
+
 #include <cstring>
 #include <fstream>
 #include "sha256.h"
